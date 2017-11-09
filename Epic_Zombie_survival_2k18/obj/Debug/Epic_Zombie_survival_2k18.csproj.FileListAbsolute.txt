@@ -1,0 +1,10 @@
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\bin\Debug\Epic_Zombie_survival_2k18.exe.config
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\bin\Debug\Epic_Zombie_survival_2k18.exe
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\bin\Debug\Epic_Zombie_survival_2k18.pdb
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.Form1.resources
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.Properties.Resources.resources
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.csproj.GenerateResource.Cache
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.csproj.CoreCompileInputs.cache
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.exe
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.pdb
+C:\Users\gtasa\source\repos\Epic_Zombie_survival_2k18\Epic_Zombie_survival_2k18\obj\Debug\Epic_Zombie_survival_2k18.csprojResolveAssemblyReference.cache
